@@ -2,93 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4b6d1eb-233b-4c20-8e4c-c8f0eb7aaf4b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/build/icon.icns" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/build/icon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/build/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Black.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Black.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Black.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-BlackItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-BlackItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-BlackItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-BoldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-BoldItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Italic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Light.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-LightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-LightItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-LightItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Medium.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-MediumItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-MediumItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-MediumItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Thin.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Thin.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-ThinItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-ThinItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-ThinItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webFrontendPro.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/gramateria/develop/gramateria.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/gramateria/develop/gramateria.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/gramateria/gram.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/gramateria/gram.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/grapesjs/grapes.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/grapesjs/grapes.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/grapesjs/plugins/gramateria.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/grapesjs/plugins/grapesjs-plugin-export.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/materialize/materialize.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/materialize/materialize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/dist/grapesjs-lory-slider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/blocks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/components/NavNext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/components/NavPrev.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/components/Slide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/components/Slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/components/SliderFrame.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/components/Slides.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/components/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/constants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gramateria-master/dist/gramateria/gram.min.js" afterPath="$PROJECT_DIR$/gramateria-master/dist/gramateria/gram.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gramateria-master/index.html" afterPath="$PROJECT_DIR$/gramateria-master/index.html" />
     </list>
     <ignored path="webFrontendPro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -113,7 +29,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grapesjs-lory-slider-master/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.5">
+            <state vertical-scroll-proportion="2.4285715">
               <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
               <folding />
             </state>
@@ -123,8 +39,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gramateria-master/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.021680217">
-              <caret line="166" column="20" selection-start-line="166" selection-start-column="20" selection-end-line="166" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.32580644">
+              <caret line="168" column="41" selection-start-line="168" selection-start-column="41" selection-end-line="168" selection-end-column="41" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -136,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/gramateria-master/dist/gramateria/gram.min.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="238.53572">
-              <caret line="0" column="46357" selection-start-line="0" selection-start-column="46357" selection-end-line="0" selection-end-column="46357" />
+              <caret line="0" column="46366" selection-start-line="0" selection-start-column="46358" selection-end-line="0" selection-end-column="46366" />
               <folding />
             </state>
           </provider>
@@ -146,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/gramateria-master/dist/gramateria/develop/gramateria.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1540" column="19" selection-start-line="1540" selection-start-column="19" selection-end-line="1540" selection-end-column="19" />
+              <caret line="1534" column="6" selection-start-line="1534" selection-start-column="6" selection-end-line="1534" selection-end-column="6" />
               <folding>
                 <marker date="1530508065000" expanded="true" signature="7642:7733" placeholder="..." />
                 <marker date="1530508065000" expanded="true" signature="8018:8231" placeholder="..." />
@@ -664,10 +580,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gramateria-master/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7506775">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gramateria-master/dist/gramateria/gram.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="238.53572">
+          <caret line="0" column="46366" selection-start-line="0" selection-start-column="46358" selection-end-line="0" selection-end-column="46366" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gramateria-master/dist/gramateria/develop/gramateria.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1540" column="19" selection-start-line="1540" selection-start-column="19" selection-end-line="1540" selection-end-column="19" />
+          <caret line="1534" column="6" selection-start-line="1534" selection-start-column="6" selection-end-line="1534" selection-end-column="6" />
           <folding>
             <marker date="1530508065000" expanded="true" signature="7642:7733" placeholder="..." />
             <marker date="1530508065000" expanded="true" signature="8018:8231" placeholder="..." />
@@ -817,25 +749,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gramateria-master/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7506775">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gramateria-master/dist/gramateria/gram.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="238.53572">
-          <caret line="0" column="46357" selection-start-line="0" selection-start-column="46357" selection-end-line="0" selection-end-column="46357" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grapesjs-lory-slider-master/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.5">
+        <state vertical-scroll-proportion="2.4285715">
           <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
           <folding />
         </state>
@@ -843,8 +759,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gramateria-master/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.021680217">
-          <caret line="166" column="20" selection-start-line="166" selection-start-column="20" selection-end-line="166" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.32580644">
+          <caret line="168" column="41" selection-start-line="168" selection-start-column="41" selection-end-line="168" selection-end-column="41" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>

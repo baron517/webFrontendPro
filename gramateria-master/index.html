@@ -155,18 +155,20 @@
             </div>
         </div>
     </footer>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script>
         $(document).ready(function ($) {
-            $('.parallax').parallax();
-            $('.button-collapse').sideNav();
+          /*  $('.parallax').parallax();
+            $('.button-collapse').sideNav();*/
         });
 
-        $(".fa-save").click(function()
+        function saveHtml()
         {
 
-            alert();
-
-        });
+            var allHtml=$(".gjs-frame").contents().find("html").prop("outerHTML");
+            localStorage.allHtml=allHtml;
+            console.log(allHtml);
+        }
 
     </script>
     <style>
