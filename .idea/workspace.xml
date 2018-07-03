@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4b6d1eb-233b-4c20-8e4c-c8f0eb7aaf4b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/build/icon.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/build/icon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/build/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Black.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Black.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-BlackItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-BlackItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-BlackItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-BoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-BoldItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-BoldItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Italic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-LightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-LightItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-LightItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Medium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Medium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-MediumItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-MediumItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-MediumItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Thin.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-Thin.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-ThinItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-ThinItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/Roboto-ThinItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webFrontendPro.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/fonts/roboto/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/gramateria/develop/gramateria.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/gramateria/develop/gramateria.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/gramateria/gram.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/gramateria/gram.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/grapesjs/grapes.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/grapesjs/grapes.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/grapesjs/plugins/gramateria.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/grapesjs/plugins/grapesjs-plugin-export.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/materialize/materialize.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/dist/materialize/materialize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gramateria-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/dist/grapesjs-lory-slider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/blocks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/components/NavNext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/components/NavPrev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/components/Slide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/components/Slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/components/SliderFrame.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/components/Slides.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/components/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/src/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grapesjs-lory-slider-master/webpack.config.js" />
+    </list>
+    <ignored path="webFrontendPro.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="webFrontendPro" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grapesjs-lory-slider-master/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.5">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gramateria-master/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.021680217">
+              <caret line="166" column="20" selection-start-line="166" selection-start-column="20" selection-end-line="166" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gram.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gramateria-master/dist/gramateria/gram.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="238.53572">
+              <caret line="0" column="46357" selection-start-line="0" selection-start-column="46357" selection-end-line="0" selection-end-column="46357" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gramateria.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gramateria-master/dist/gramateria/develop/gramateria.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1540" column="19" selection-start-line="1540" selection-start-column="19" selection-end-line="1540" selection-end-column="19" />
+              <folding>
+                <marker date="1530508065000" expanded="true" signature="7642:7733" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="8018:8231" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="8061:8204" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="8279:8652" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="8327:8625" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="8705:8877" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="10467:10558" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="16285:16405" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="16709:16920" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="17218:17551" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="17868:18303" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="18620:18845" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="19161:19386" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="19700:19925" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="20253:20357" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="20627:22557" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="20650:22530" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="20688:22503" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="20733:21262" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="20778:21235" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="21308:21912" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="21353:21885" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="21958:22476" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="22003:22449" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="23709:23986" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="24256:25751" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="24312:24649" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="24705:25001" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="25057:25365" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="25421:25725" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="26063:26848" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="26091:26284" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="26116:26255" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="26312:26819" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="26337:26469" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="26494:26628" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="26653:26790" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="29849:31603" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="29889:31576" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="29914:30307" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="30108:30281" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="30332:30718" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="30523:30692" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="30743:31132" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="30936:31106" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="31157:31550" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="31351:31524" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="32648:33010" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="32701:32983" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="33310:33920" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="33442:33522" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="34201:34985" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="34334:34425" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="34450:34958" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="37968:39526" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="38023:39499" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="38061:38517" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="38114:38277" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="38330:38490" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="38555:38797" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="38609:38770" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="38835:39065" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="38889:39038" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="39103:39471" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="39145:39444" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="39228:39417" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="41228:41830" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="41281:41518" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="41571:41803" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="42092:42346" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="42146:42319" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="42626:43017" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="42655:42936" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="43351:43884" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="43393:43873" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="43397:43496" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="43504:43606" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="43614:43733" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="43741:43862" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="44146:44425" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="44188:44414" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="44196:44285" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="44293:44403" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="45000:45688" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="45009:45390" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="45032:45385" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="45063:45145" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="45877:45972" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="46365:46945" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="46374:46559" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="46568:46747" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="46756:46937" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="46955:46998" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="47030:47073" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="47335:48089" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="47377:47802" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="47415:47775" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="48352:50566" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="48378:50555" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="48398:48492" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="48422:48481" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="48512:50545" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="48542:49185" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="48574:49176" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="48746:49165" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="48757:48884" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="48769:48884" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="49214:49863" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="49246:49854" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="49424:49843" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="49435:49562" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="49447:49562" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="49893:50534" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="49925:50525" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="50095:50514" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="50106:50233" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="50118:50233" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="51682:54381" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="51720:54338" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="51762:51852" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="51897:53081" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="51940:53054" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="51979:52041" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="52074:52289" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="52332:52656" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="52357:52628" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="52481:52601" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="52697:52946" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="53126:54311" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="53169:54284" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="53208:53270" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="53303:53519" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="53562:53886" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="53587:53858" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="53711:53831" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="53927:54176" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="55625:56396" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="55670:56369" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="55709:56342" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="55754:55926" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="55973:56191" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="55997:56164" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="56237:56315" placeholder="..." />
+                <marker date="1530508065000" expanded="true" signature="57128:57352" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gramateria-master/dist/gramateria/gram.min.js" />
+        <option value="$PROJECT_DIR$/gramateria-master/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grapesjs-lory-slider-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grapesjs-lory-slider-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grapesjs-lory-slider-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grapesjs-lory-slider-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gramateria-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gramateria-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="materialize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gramateria-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grapesjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gramateria-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grapesjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gramateria-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gramateria" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gramateria-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gramateria" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="develop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gramateria-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webFrontendPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gramateria-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Tool\nodejs\node.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4b6d1eb-233b-4c20-8e4c-c8f0eb7aaf4b" name="Default" comment="" />
+      <created>1530653418264</created>
+      <option name="number" value="Default" />
+      <updated>1530653418264</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gramateria-master/dist/gramateria/develop/gramateria.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1540" column="19" selection-start-line="1540" selection-start-column="19" selection-end-line="1540" selection-end-column="19" />
+          <folding>
+            <marker date="1530508065000" expanded="true" signature="7642:7733" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="8018:8231" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="8061:8204" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="8279:8652" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="8327:8625" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="8705:8877" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="10467:10558" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="16285:16405" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="16709:16920" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="17218:17551" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="17868:18303" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="18620:18845" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="19161:19386" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="19700:19925" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="20253:20357" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="20627:22557" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="20650:22530" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="20688:22503" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="20733:21262" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="20778:21235" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="21308:21912" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="21353:21885" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="21958:22476" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="22003:22449" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="23709:23986" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="24256:25751" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="24312:24649" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="24705:25001" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="25057:25365" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="25421:25725" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="26063:26848" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="26091:26284" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="26116:26255" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="26312:26819" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="26337:26469" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="26494:26628" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="26653:26790" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="29849:31603" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="29889:31576" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="29914:30307" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="30108:30281" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="30332:30718" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="30523:30692" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="30743:31132" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="30936:31106" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="31157:31550" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="31351:31524" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="32648:33010" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="32701:32983" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="33310:33920" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="33442:33522" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="34201:34985" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="34334:34425" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="34450:34958" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="37968:39526" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="38023:39499" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="38061:38517" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="38114:38277" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="38330:38490" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="38555:38797" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="38609:38770" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="38835:39065" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="38889:39038" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="39103:39471" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="39145:39444" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="39228:39417" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="41228:41830" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="41281:41518" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="41571:41803" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="42092:42346" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="42146:42319" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="42626:43017" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="42655:42936" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="43351:43884" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="43393:43873" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="43397:43496" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="43504:43606" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="43614:43733" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="43741:43862" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="44146:44425" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="44188:44414" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="44196:44285" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="44293:44403" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="45000:45688" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="45009:45390" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="45032:45385" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="45063:45145" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="45877:45972" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="46365:46945" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="46374:46559" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="46568:46747" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="46756:46937" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="46955:46998" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="47030:47073" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="47335:48089" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="47377:47802" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="47415:47775" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="48352:50566" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="48378:50555" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="48398:48492" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="48422:48481" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="48512:50545" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="48542:49185" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="48574:49176" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="48746:49165" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="48757:48884" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="48769:48884" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="49214:49863" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="49246:49854" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="49424:49843" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="49435:49562" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="49447:49562" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="49893:50534" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="49925:50525" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="50095:50514" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="50106:50233" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="50118:50233" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="51682:54381" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="51720:54338" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="51762:51852" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="51897:53081" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="51940:53054" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="51979:52041" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="52074:52289" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="52332:52656" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="52357:52628" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="52481:52601" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="52697:52946" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="53126:54311" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="53169:54284" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="53208:53270" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="53303:53519" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="53562:53886" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="53587:53858" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="53711:53831" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="53927:54176" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="55625:56396" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="55670:56369" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="55709:56342" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="55754:55926" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="55973:56191" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="55997:56164" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="56237:56315" placeholder="..." />
+            <marker date="1530508065000" expanded="true" signature="57128:57352" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gramateria-master/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7506775">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gramateria-master/dist/gramateria/gram.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="238.53572">
+          <caret line="0" column="46357" selection-start-line="0" selection-start-column="46357" selection-end-line="0" selection-end-column="46357" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grapesjs-lory-slider-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.5">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gramateria-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.021680217">
+          <caret line="166" column="20" selection-start-line="166" selection-start-column="20" selection-end-line="166" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
