@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4b6d1eb-233b-4c20-8e4c-c8f0eb7aaf4b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="e4b6d1eb-233b-4c20-8e4c-c8f0eb7aaf4b" name="Default" comment="" />
     <ignored path="webFrontendPro.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -214,8 +212,8 @@
       <file leaf-file-name="gramateria.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gramateria-master/dist/grapesjs/plugins/gramateria.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6300676">
-              <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.7415541">
+              <caret line="73" column="55" selection-start-line="73" selection-start-column="55" selection-end-line="73" selection-end-column="55" />
               <folding>
                 <marker date="1530673829928" expanded="true" signature="7810:7901" placeholder="..." />
                 <marker date="1530673829928" expanded="true" signature="8210:8347" placeholder="..." />
@@ -742,8 +740,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gramateria-master/dist/grapesjs/plugins/gramateria.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6300676">
-          <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.7415541">
+          <caret line="73" column="55" selection-start-line="73" selection-start-column="55" selection-end-line="73" selection-end-column="55" />
           <folding>
             <marker date="1530673829928" expanded="true" signature="7810:7901" placeholder="..." />
             <marker date="1530673829928" expanded="true" signature="8210:8347" placeholder="..." />
